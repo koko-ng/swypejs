@@ -15,13 +15,15 @@ It's very easy to use
 
 
 
-	$(sel).swype(direction, detection_size);
+        $(sel).swype(direction, detection_size);
+  
 
 - No plugin version :
 
 
 
-	swype(element, direction, detection_size);
+        swype(element, direction, detection_size);
+	
 
 Detect event :
 
