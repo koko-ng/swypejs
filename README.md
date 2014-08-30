@@ -11,12 +11,16 @@ Use it !
 --------
 It's very easy to use
 
- - JQuery plugin just :
+- JQuery plugin version
 
-	$(sel).swype(direction, detection_size);
 
- - No plugin version :
-	swype(element, direction, detection_size);
+
+    $(sel).swype(direction, detection_size);
+
+- No plugin version :
+
+
+    swype(element, direction, detection_size);
 
 Detect event :
 
@@ -32,4 +36,5 @@ TODO
 
  - Make a pure JS version (w/o JQuery)
  - callback on touchmove
+
 
